@@ -3,7 +3,7 @@ I'm rumaier, a beginning developer diving into the world of Lua programming, wit
 ## Get in Touch
 
 You can reach out to me via:
-- 💬 [Discord](https://discordapp.com/users/608002727703740488)
+<iframe src="https://discord.com/widget?id=1223124665183240212&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## Support Me
 If you find my projects helpful or interesting, consider supporting me:
