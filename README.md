@@ -1,9 +1,8 @@
-I'm rumaier, a beginning developer diving into the world of Lua programming, with a particular focus on creating resources for FiveM servers. I'm passionate about learning and exploring new technologies, and GitHub is where I document my journey and share my projects with the community.
+# Stats
+![rumaiers's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumaier&show_icons=true&theme=merko)
 
-## Get in Touch
-
-You can reach out to me via:
-- 💬 [Discord](https://discordapp.com/users/608002727703740488)
+# Support
+<a href='https://discord.gg/8TzrRRheV5'>![Discord Banner 2](https://discordapp.com/api/guilds/1223124665183240212/widget.png?style=banner3)</a>
 
 ## Support Me
 If you find my projects helpful or interesting, consider supporting me:
@@ -13,4 +12,4 @@ If you find my projects helpful or interesting, consider supporting me:
 <!---
 rumaier/rumaier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> 
