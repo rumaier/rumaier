@@ -4,9 +4,8 @@
 # Support
 <a href='https://discord.gg/8TzrRRheV5'>![Discord Banner 2](https://discordapp.com/api/guilds/1223124665183240212/widget.png?style=banner3)</a>
 
-## Donate
-If you find my projects helpful or interesting, consider leaving a tip:
-- ☕️ [Buy me a coffee](https://ko-fi.com/rumaier): Every little bit helps keep me fueled for coding!
+## Shop/Donate
+### [Tebex](https://r-scripts.tebex.io/)  ·  [Ko-Fi](https://ko-fi.com/rumaier)
 
 <!---
 rumaier/rumaier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
