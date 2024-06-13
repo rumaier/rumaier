@@ -1,5 +1,5 @@
 # Stats
-![Rumaier's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumaier&show_icons=true&theme=material-palenight)
+![Rumaier's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumaier&show_icons=true&hide=contribs,prs&theme=material-palenight)
 
 # Support
 <a href='https://discord.gg/8TzrRRheV5'>![Discord Banner 2](https://discordapp.com/api/guilds/1223124665183240212/widget.png?style=banner3)</a>
