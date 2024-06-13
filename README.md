@@ -6,6 +6,7 @@
 
 ## Shop · Donate · Docs
 ### [Tebex](https://r-scripts.tebex.io/){:target="_blank"}  ·  [Ko-Fi](https://ko-fi.com/rumaier){:target="_blank"} · [Gitbook](https://r-scripts-1.gitbook.io/r_scripts-docs.){:target="_blank"}
+<a href="[http://example.com/](https://r-scripts.tebex.io/)" target="_blank">Tebex</a>
 
 <!---
 rumaier/rumaier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
