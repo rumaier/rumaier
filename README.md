@@ -1,3 +1,7 @@
+<!---
+# Languages
+[![Tech Stack](https://skillicons.dev/icons?i=lua,js,react,html,css)](https://r-scripts.tebex.io/)
+---> 
 # Stats
 ![Rumaier's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumaier&show_icons=true&hide=contribs,prs&theme=material-palenight)
 
