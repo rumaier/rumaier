@@ -4,10 +4,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumaier&theme=material-palenight&hide_border=true&card_width=500" alt="rumaier's Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumaier&theme=material-palenight&show_icons=true&hide_border=true&layout=compact&card_width=500" alt="rumaier's Top Languages">
 </p>
-<h1>Languages</h1>
+<!-- <h1>Languages</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,html,css,js," alt="rumaier's Languages">
-</p>
+</p> -->
 <h1>Links</h1>
 <p align="center">
   <a href="https://discord.gg/r-scripts"><img src="https://github.com/user-attachments/assets/93483cab-6a28-4f4d-88d3-92520a0f81bb"></a>
