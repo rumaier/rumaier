@@ -10,9 +10,9 @@
 </p>
 <h1>Links</h1>
 <p align="center">
-  <a href="https://discord.gg/r-scripts"><img src="https://github.com/user-attachments/assets/93483cab-6a28-4f4d-88d3-92520a0f81bb"></a>
-  <a href="https://r-scripts.tebex.io/"><img src="https://github.com/user-attachments/assets/f1642eaf-348a-4699-88f2-57c929f149a7"></a>
-  <a href="https://r-scripts-1.gitbook.io/r_scripts-docs."><img src="https://github.com/user-attachments/assets/7131f16b-ee85-42ea-85fd-a493b8cc31ef"></a>
+  <a href="https://discord.gg/r-scripts" target="_blank"><img src="https://github.com/user-attachments/assets/93483cab-6a28-4f4d-88d3-92520a0f81bb"></a>
+  <a href="https://r-scripts.tebex.io/" target="_blank"><img src="https://github.com/user-attachments/assets/f1642eaf-348a-4699-88f2-57c929f149a7"></a>
+  <a href="https://r-scripts-1.gitbook.io/r_scripts-docs." target="_blank"><img src="https://github.com/user-attachments/assets/7131f16b-ee85-42ea-85fd-a493b8cc31ef"></a>
 </p>
 <!---
 rumaier/rumaier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
