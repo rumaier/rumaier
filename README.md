@@ -6,7 +6,7 @@
 </p>
 <h1>Languages</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,js," alt="rumaier's Languages">
+  <img src="https://skillicons.dev/icons?i=lua,html,css,js,react," alt="rumaier's Languages">
 </p>
 <h1>Links</h1>
 <p align="center">
