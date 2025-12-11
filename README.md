@@ -12,9 +12,9 @@
   <a href="https://rscripts.gitbook.io/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/View-%23BBDDE5?logo=gitbook&label=Gitbook"></a>
   <a href="https://ko-fi.com/rumaier" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Tip-%23FF6433?logo=kofi&label=Ko-Fi"></a>
 </section>
-<section align="center">
+<!-- <section align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rumaier&theme=material-palenight" />
-</section> 
+</section>  -->
 <!---
 rumaier/rumaier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
